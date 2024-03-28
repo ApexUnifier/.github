@@ -15,7 +15,7 @@ We would working on this branch !
 ### release 
 This branch will have production code
 ### merge conflicts
-- all the issue related to merge conflicts will be managed by me so focus on the issue assigned to the particular developer and `happy coding :)`
+- all the issue related to merge conflicts will be managed by me so focus on the issue assigned to the particular developer <br> `happy coding :)`
 
 <!--
 
