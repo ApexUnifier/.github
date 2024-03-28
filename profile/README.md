@@ -17,6 +17,11 @@ We would working on this branch !
 This branch will have production code
 ### merge conflicts
 - all the issue related to merge conflicts will be managed by me so focus on the issue assigned to the particular developer <br> `happy coding :)`
+### Testing Guidelines
+- Use `Red Green Refactor` method To write test
+- write test for module you are going to develop make seperate folders for tests
+- make seperate folder for module in the test folder
+- `for example`  if you are writing test for module name `document.js` then make folder of name `document` and write tests there.
 
 <!--
 
