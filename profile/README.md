@@ -1,5 +1,19 @@
-# Hi there 👋
-## I will write the development guidelines here
+# Development Guidelines
+## Branch Structure
+So we would be following Three branch structure `main` , `develop` and `release`
+
+### main
+This branch is meant for backup so never push here
+- `note` this branch will have code one version lower
+### develop
+We would working on this branch !
+- Fork the branch then fork your forked branch to your `local system`
+- make local branches at your system for the issues your working on once the issue is solved merge it with develop branch at your local
+- push it to your forked repo at github and then send `pull request`
+- `note` never push the local made branches for issue at your `local system`
+  `for example` if i am asked to add forget password feature i will make seperate branch for feature at my local once the work is done i will merge it with develop in my local then push it to forked repo at github and will send `Pull Request` to develop branch in main project
+### Release 
+This branch will have production code
 
 <!--
 
