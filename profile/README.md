@@ -12,7 +12,7 @@ We would working on this branch !
 - push it to your forked repo at github and then send `pull request`
 - `note` never push the local made branches for issue at your `local system`
   `for example` if i am asked to add forget password feature i will make seperate branch for feature at my local once the work is done i will merge it with develop in my local then push it to forked repo at github and will send `Pull Request` to develop branch in main project
-### Release 
+### release 
 This branch will have production code
 
 <!--
