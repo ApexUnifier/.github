@@ -14,6 +14,8 @@ We would working on this branch !
   `for example` if i am asked to add forget password feature i will make seperate branch for feature at my local once the work is done i will merge it with develop in my local then push it to forked repo at github and will send `Pull Request` to develop branch in main project
 ### release 
 This branch will have production code
+### merge conflicts
+- all the issue related to merge conflicts will be managed by me so focus on the issue assigned to the particular developer and `happy coding :)`
 
 <!--
 
