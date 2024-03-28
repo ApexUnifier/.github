@@ -11,6 +11,7 @@ We would working on this branch !
 - make local branches at your system for the issues your working on once the issue is solved merge it with develop branch at your local
 - push it to your forked repo at github and then send `pull request`
 - `note` never push the local made branches for issue at your `local system`
+- `note` uncheck fork main only box to fork all the branches while forking in your github from main organisation repo
   `for example` if i am asked to add forget password feature i will make seperate branch for feature at my local once the work is done i will merge it with develop in my local then push it to forked repo at github and will send `Pull Request` to develop branch in main project
 ### release 
 This branch will have production code
